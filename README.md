@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub flow.
+My name is Jarrod Moon, and I'm an aspiring coder and programmer from Eastern Kentucky.
